@@ -1,2 +1,3 @@
 # tp_ciencia_de_datos
-Trabajo práctico materia Ciencia de Datos. Se trata de un análisis exploratoriosobre un conjunto de reservas de hotel, y la creación de modelos de clasificación para determinar la probabilidad de que una persona cancele una reserva.
+Trabajo práctico materia Ciencia de Datos, de la Maestría en Economía Aplicada de la UBA.
+Se trata de un análisis exploratorio sobre un conjunto de datos de reservas de hotel y la creación de modelos de clasificación para determinar la probabilidad de que una persona cancele su reserva.
